@@ -1,0 +1,8 @@
+.magic-box{
+    width: 12.5%;
+    height: 175px;
+    background-color: blue;
+    display: inline-block;
+    box-sizing: border-box;
+    
+}
